@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+table{
+	border:solid black;
+	margin-left:auto;
+	margin-right:auto;
+    scroll-behavior: auto;
+    padding:10px;
+}
+input{
+	margin-left:10px;
+}
+h1{
+	margin:auto;
+	padding-left:536px;
+	padding-bottom:10px;
+}
+#p1{
+	padding:5px;
+	margin:auto;
+	text-align:center;
+}
+#p2{
+	margin-left:55px
+}
+#i1{
+	width: -webkit-fill-available;
+	height: 242px
+}
+a{
+ display:inline;
+ display: inline-block;
+ padding-left: 15px;
+ text-decoration:none;
+}
+#d1{
+	padding-top:10px;
+}
+#p5{
+	margin-left:168px
+}
